@@ -10,7 +10,7 @@ My main tech stack are Python, C/C++, and Arduino.
 
 I've got a bunch of projects, but my favorite is [Craig Reynold's Boids Algorithm](https://github.com/Sahil-Patel-1424/Multi-Robot-Systems-Pattern-Formation).
 
-Fun Facts:
+**Fun Facts:**
 - I have 2 telescopes
 - One Piece and Hunter x Hunter are my favorite animes
 - Hobbies: astronomy, building things, anime, hiking
