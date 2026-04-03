@@ -8,7 +8,7 @@ If an idea pops into my head, chances are I'll build it and ship it.
 
 My main tech stack are Python, C/C++, and Arduino.
 
-I've got a bunch of projects, but my favorite is [Craig Reynold's Boids Algorithm](https://github.com/Sahil-Patel-1424/Multi-Robot-Systems-Pattern-Formation).
+I've got a bunch of projects, but my favorite is the [ROS2 robot](https://github.com/smpate111/mobile_robot).
 
 **Fun Facts:**
 - I have 2 telescopes
