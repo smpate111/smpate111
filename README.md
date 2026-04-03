@@ -8,7 +8,7 @@ If an idea pops into my head, chances are I'll build it and ship it.
 
 My main tech stack are Python, C/C++, and Arduino.
 
-I've got a bunch of projects, but my favorite is the [ROS2 robot](https://github.com/smpate111/mobile_robot).
+I've got a bunch of projects, but my favorite is the [ROS2 mobile robot](https://github.com/smpate111/mobile_robot).
 
 **Fun Facts:**
 - I have 2 telescopes
