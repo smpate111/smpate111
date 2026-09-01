@@ -6,7 +6,7 @@ I design and build whatever I can imagine.
 
 If an idea pops into my head, chances are I'll build it and ship it.
 
-My main tech stack are Python, C/C++, and Arduino.
+My main tech stack are Python, C/C++, and ESP32.
 
 I've got a bunch of projects, but my favorite is the [ROS2 mobile robot](https://github.com/smpate111/mobile_robot).
 
